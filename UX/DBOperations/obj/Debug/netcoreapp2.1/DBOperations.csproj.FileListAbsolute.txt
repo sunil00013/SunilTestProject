@@ -1,0 +1,15 @@
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\bin\Debug\netcoreapp2.1\DBOperations.deps.json
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\bin\Debug\netcoreapp2.1\DBOperations.runtimeconfig.json
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\bin\Debug\netcoreapp2.1\DBOperations.runtimeconfig.dev.json
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\bin\Debug\netcoreapp2.1\DBOperations.dll
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\bin\Debug\netcoreapp2.1\DBOperations.pdb
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.csproj.CoreCompileInputs.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.RazorAssemblyInfo.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.RazorAssemblyInfo.cs
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.AssemblyInfoInputs.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.AssemblyInfo.cs
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.RazorTargetAssemblyInfo.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.dll
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.pdb
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\obj\Debug\netcoreapp2.1\DBOperations.csprojAssemblyReference.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\DBOperations\bin\Debug\netcoreapp2.1\CommonLibrary.dll

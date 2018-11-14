@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UX", "UX\UX.csproj", "{2820F93E-CBC8-41C4-968E-1B2AA0A4D20B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBOperations", "DBOperations\DBOperations.csproj", "{251B8BA4-7397-4560-A6BE-0EBBFC7B5659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{17023028-C6A3-43CA-B927-B8B4E1623586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2820F93E-CBC8-41C4-968E-1B2AA0A4D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2820F93E-CBC8-41C4-968E-1B2AA0A4D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2820F93E-CBC8-41C4-968E-1B2AA0A4D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251B8BA4-7397-4560-A6BE-0EBBFC7B5659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251B8BA4-7397-4560-A6BE-0EBBFC7B5659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251B8BA4-7397-4560-A6BE-0EBBFC7B5659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251B8BA4-7397-4560-A6BE-0EBBFC7B5659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17023028-C6A3-43CA-B927-B8B4E1623586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17023028-C6A3-43CA-B927-B8B4E1623586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17023028-C6A3-43CA-B927-B8B4E1623586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17023028-C6A3-43CA-B927-B8B4E1623586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

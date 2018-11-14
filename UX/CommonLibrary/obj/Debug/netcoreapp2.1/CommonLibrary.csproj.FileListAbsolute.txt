@@ -1,0 +1,5 @@
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\CommonLibrary\bin\Debug\netcoreapp2.1\CommonLibrary.deps.json
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\CommonLibrary\bin\Debug\netcoreapp2.1\CommonLibrary.dll
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\CommonLibrary\obj\Debug\netcoreapp2.1\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\CommonLibrary\obj\Debug\netcoreapp2.1\CommonLibrary.AssemblyInfoInputs.cache
+C:\Univva Application\AngularLearnig\SunilTestProject\UX\CommonLibrary\obj\Debug\netcoreapp2.1\CommonLibrary.AssemblyInfo.cs
